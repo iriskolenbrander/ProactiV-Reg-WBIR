@@ -3,6 +3,9 @@
 
 ![Method overview](https://github.com/iriskolenbrander/ProactiV-Reg-WBIR/blob/main/method_figure.png)
 
+- Steps 1-2 (image perturbation and learnable input mapping): Run 'main.py' and specify which image perturbation and magnitude. 
+- Step 3 (distance computation): Run 'compute distances.py' 
+
 ### Citation
 Please cite our work and the original paper of ProactiV.  
 ProactiV-Reg
