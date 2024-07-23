@@ -1,7 +1,7 @@
 
 ## ProactiV-Reg: Assessing robustness of image registration models under domain shifts with learnable input images
 
-![Method overview](https://github.com/iriskolenbrander/ProactiV-Reg-WBIR/blob/main/test.png)
+![Method overview](https://github.com/iriskolenbrander/ProactiV-Reg-WBIR/blob/main/method_figure.png)
 
 ### Citation
 Please cite our work and the original paper of ProactiV.  
